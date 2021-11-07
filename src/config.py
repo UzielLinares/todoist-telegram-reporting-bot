@@ -1,0 +1,3 @@
+class CREDENTIALS:
+    TODOIST_TOKEN = ""
+    TELEGRAM_BOT_TOKEN = ""
